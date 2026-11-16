@@ -1,0 +1,114 @@
+{
+  "titulo": "Fictional habits and logic questionnaire",
+  "idioma": "en",
+  "total_items": 6,
+  "items": [
+    {
+      "numero": 1,
+      "enunciado": "I organize my tasks before starting.",
+      "tipo": "escala_likert",
+      "alternativas": [
+        {
+          "valor": 0,
+          "texto": "Never"
+        },
+        {
+          "valor": 1,
+          "texto": "Sometimes"
+        },
+        {
+          "valor": 2,
+          "texto": "Always"
+        }
+      ],
+      "respuesta_correcta": null
+    },
+    {
+      "numero": 2,
+      "enunciado": "I review my work when I finish.",
+      "tipo": "escala_likert",
+      "alternativas": [
+        {
+          "valor": 0,
+          "texto": "Never"
+        },
+        {
+          "valor": 1,
+          "texto": "Sometimes"
+        },
+        {
+          "valor": 2,
+          "texto": "Always"
+        }
+      ],
+      "respuesta_correcta": null
+    },
+    {
+      "numero": 3,
+      "enunciado": "Which number follows in the sequence 2, 4, 8, ...?",
+      "tipo": "seleccion_multiple",
+      "alternativas": [
+        {
+          "valor": "A",
+          "texto": "10"
+        },
+        {
+          "valor": "B",
+          "texto": "16"
+        },
+        {
+          "valor": "C",
+          "texto": "20"
+        }
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero": 4,
+      "enunciado": "Water can exist in a solid state.",
+      "tipo": "verdadero_falso",
+      "alternativas": [
+        {
+          "valor": "V",
+          "texto": "True"
+        },
+        {
+          "valor": "F",
+          "texto": "False"
+        }
+      ],
+      "respuesta_correcta": null
+    },
+    {
+      "numero": 5,
+      "enunciado": "Describe an activity you enjoy.",
+      "tipo": "desarrollo",
+      "alternativas": [],
+      "respuesta_correcta": null
+    },
+    {
+      "numero": 6,
+      "enunciado": "Match each entry in the left column to the right column.",
+      "tipo": "emparejamiento",
+      "alternativas": [
+        {
+          "valor": "L1",
+          "texto": "Sun"
+        },
+        {
+          "valor": "L2",
+          "texto": "Moon"
+        },
+        {
+          "valor": "RA",
+          "texto": "Night"
+        },
+        {
+          "valor": "RB",
+          "texto": "Day"
+        }
+      ],
+      "respuesta_correcta": "L1=RB;L2=RA"
+    }
+  ]
+}

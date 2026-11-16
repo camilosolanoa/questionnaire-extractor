@@ -1,0 +1,12 @@
+Questionario inventato di abitudini e logica
+Materiale inventato. Per gli item 1 e 2 usa questa scala: 0 = Mai; 1 = A volte; 2 = Sempre.
+1. Organizzo i miei compiti prima di iniziare.
+2. Controllo il mio lavoro quando finisco.
+3. Quale numero segue nella serie 2, 4, 8, ...?
+A. 10; B. 16; C. 20
+4. L'acqua può trovarsi allo stato solido.
+V. Vero; F. Falso
+5. Descrivi un'attività che ti piace.
+6. Abbina ogni elemento della colonna sinistra a quella destra.
+Colonna sinistra: 1. Sole; 2. Luna. Colonna destra: A. Notte; B. Giorno.
+Chiave esplicita: item 3 = B; item 6 = 1-B, 2-A. Nessuna chiave per gli altri item.

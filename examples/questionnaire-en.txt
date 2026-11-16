@@ -1,0 +1,12 @@
+Fictional habits and logic questionnaire
+Invented material. For items 1 and 2 use this scale: 0 = Never; 1 = Sometimes; 2 = Always.
+1. I organize my tasks before starting.
+2. I review my work when I finish.
+3. Which number follows in the sequence 2, 4, 8, ...?
+A. 10; B. 16; C. 20
+4. Water can exist in a solid state.
+V. True; F. False
+5. Describe an activity you enjoy.
+6. Match each entry in the left column to the right column.
+Left column: 1. Sun; 2. Moon. Right column: A. Night; B. Day.
+Explicit answer key: item 3 = B; item 6 = 1-B, 2-A. No answer keys for other items.

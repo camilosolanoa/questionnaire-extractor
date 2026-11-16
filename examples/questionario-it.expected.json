@@ -1,0 +1,114 @@
+{
+  "titulo": "Questionario inventato di abitudini e logica",
+  "idioma": "it",
+  "total_items": 6,
+  "items": [
+    {
+      "numero": 1,
+      "enunciado": "Organizzo i miei compiti prima di iniziare.",
+      "tipo": "escala_likert",
+      "alternativas": [
+        {
+          "valor": 0,
+          "texto": "Mai"
+        },
+        {
+          "valor": 1,
+          "texto": "A volte"
+        },
+        {
+          "valor": 2,
+          "texto": "Sempre"
+        }
+      ],
+      "respuesta_correcta": null
+    },
+    {
+      "numero": 2,
+      "enunciado": "Controllo il mio lavoro quando finisco.",
+      "tipo": "escala_likert",
+      "alternativas": [
+        {
+          "valor": 0,
+          "texto": "Mai"
+        },
+        {
+          "valor": 1,
+          "texto": "A volte"
+        },
+        {
+          "valor": 2,
+          "texto": "Sempre"
+        }
+      ],
+      "respuesta_correcta": null
+    },
+    {
+      "numero": 3,
+      "enunciado": "Quale numero segue nella serie 2, 4, 8, ...?",
+      "tipo": "seleccion_multiple",
+      "alternativas": [
+        {
+          "valor": "A",
+          "texto": "10"
+        },
+        {
+          "valor": "B",
+          "texto": "16"
+        },
+        {
+          "valor": "C",
+          "texto": "20"
+        }
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero": 4,
+      "enunciado": "L'acqua può trovarsi allo stato solido.",
+      "tipo": "verdadero_falso",
+      "alternativas": [
+        {
+          "valor": "V",
+          "texto": "Vero"
+        },
+        {
+          "valor": "F",
+          "texto": "Falso"
+        }
+      ],
+      "respuesta_correcta": null
+    },
+    {
+      "numero": 5,
+      "enunciado": "Descrivi un'attività che ti piace.",
+      "tipo": "desarrollo",
+      "alternativas": [],
+      "respuesta_correcta": null
+    },
+    {
+      "numero": 6,
+      "enunciado": "Abbina ogni elemento della colonna sinistra a quella destra.",
+      "tipo": "emparejamiento",
+      "alternativas": [
+        {
+          "valor": "L1",
+          "texto": "Sole"
+        },
+        {
+          "valor": "L2",
+          "texto": "Luna"
+        },
+        {
+          "valor": "RA",
+          "texto": "Notte"
+        },
+        {
+          "valor": "RB",
+          "texto": "Giorno"
+        }
+      ],
+      "respuesta_correcta": "L1=RB;L2=RA"
+    }
+  ]
+}

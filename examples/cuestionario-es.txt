@@ -1,0 +1,12 @@
+Cuestionario ficticio de hábitos y lógica
+Material inventado. Para los ítems 1 y 2 usa esta escala: 0 = Nunca; 1 = A veces; 2 = Siempre.
+1. Organizo mis tareas antes de comenzar.
+2. Reviso mi trabajo al terminar.
+3. ¿Qué número sigue en la serie 2, 4, 8, ...?
+A. 10; B. 16; C. 20
+4. El agua puede encontrarse en estado sólido.
+V. Verdadero; F. Falso
+5. Describe una actividad que disfrutes.
+6. Relaciona cada elemento de la columna izquierda con la derecha.
+Columna izquierda: 1. Sol; 2. Luna. Columna derecha: A. Noche; B. Día.
+Clave de respuestas explícita: ítem 3 = B; ítem 6 = 1-B, 2-A. No hay claves para los demás ítems.
