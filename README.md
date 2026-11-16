@@ -9,6 +9,8 @@ JSON. Detecta idioma, cinco tipos de ítem, alternativas y claves explícitas.
 
 **Repositorio:** https://github.com/camilosolanoa/questionnaire-extractor
 
+**Guía para la entrevista:** [presentation.md](presentation.md)
+
 ## Ejecutar localmente
 
 Requiere Python 3.11+ (probado con 3.13), Node 22.12+ y [uv](https://docs.astral.sh/uv/).
