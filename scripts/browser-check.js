@@ -14,10 +14,11 @@ async (page) => {
       exact: true,
     })
     .waitFor({ timeout: 90000 });
-  if ((await page.locator(".items article").count()) !== 6)
-    throw new Error("Expected six items");
-  await page.getByRole("button", { name: "JSON", exact: true }).click();
+  if (!(await page.locator("pre").isVisible()))
+    throw new Error("The JSON result should be visible immediately, without a tab switch");
   const result = JSON.parse(await page.locator("pre").innerText());
+  if (result.total_items !== 6 || result.items.length !== 6)
+    throw new Error("Expected six items");
   if (result.items[3].respuesta_correcta !== null)
     throw new Error("An unmarked answer was invented");
   const downloadEvent = page.waitForEvent("download");

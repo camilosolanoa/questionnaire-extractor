@@ -53,7 +53,11 @@ flowchart LR
 3. Luna interpreta el contenido con Structured Outputs y un prompt versionado en Git.
    La clasificación semántica no depende de palabras clave ni expresiones regulares.
 4. Pydantic verifica estructura, conteos, números únicos, alternativas y referencias de claves.
-5. La interfaz muestra los ítems o el JSON y permite descargarlo. No hay cuentas ni base de datos.
+5. Una sola pantalla permite subir el archivo, ver el JSON y descargarlo. No hay cuentas ni base de datos.
+
+El frontend tiene un componente, cuatro estados (archivo, procesamiento, error y resultado),
+una petición POST y estilos CSS simples. No usa pestañas, bibliotecas de UI ni estado global.
+Las dependencias de Python se definen en `pyproject.toml` y se fijan en `uv.lock`.
 
 Lectura del código: `backend/files.py` → `backend/prompt.txt` → `backend/llm.py` →
 `backend/models.py` → `backend/main.py` → `frontend/src/main.tsx`.
